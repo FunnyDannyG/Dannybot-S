@@ -1,0 +1,17 @@
+# Bot Token
+TOKEN=
+
+# OpenAI API Key
+OPENAI_API_KEY=
+
+# Tenor API Key
+TENOR_KEY=
+
+# Channel for bot logging
+LOGS=
+
+# Channel for self-bookmarking
+BOOKMARKS=
+
+# Alpha Vantage API Key
+AV_API_KEY=
